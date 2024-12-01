@@ -12,19 +12,27 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "Python",
+    "imageSrc": "skills/python.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Langchain",
+    "imageSrc": "skills/langchain.png"
   },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "PyTorch",
+    "imageSrc": "skills/pytorch.png"
+  },
+  {
+    "title": "FastAPI",
+    "imageSrc": "skills/fastapi.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
   }
 ]

@@ -15,12 +15,11 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <img src={getImageUrl("about/ai.png")} alt="AI icon" height={50} padding={10} />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>AI Engineer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I'm passionate about pushing the boundaries of AI. I develop cutting-edge generative AI projects and specialize in fine-tuning large language models.
               </p>
             </div>
           </li>
@@ -37,10 +36,9 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>SRE Engineer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I have extensive experience in ensuring the reliability, scalability, and performance of complex systems. I've successfully implemented monitoring, automation, and incident response strategies to maximize uptime and optimize system health
               </p>
             </div>
           </li>

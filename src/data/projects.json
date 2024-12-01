@@ -1,26 +1,41 @@
 [
   {
-    "title": "Project A",
+    "title": "AI Catalog",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "AI Catalog offers a personalized generative AI chatbot experience tailored to users' specific needs. ",
+    "skills": [
+      "Python",
+      "Docker",
+      "Langchain",
+      "FastAPI"
+    ],
+    "demo": "https://ai-catalog-sancheet-jseg7i727q-el.a.run.app/",
+    "source": "https://github.com/sancheet48/Open-Source-AI-Catalog"
   },
   {
-    "title": "Project B",
+    "title": "Movie Recommendation System ",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Designed and developed a recommendation system based on TMDB dataset.",
+    "skills": [
+      "Python",
+      "Streamlit",
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "demo": "https://movie-rs-sancheet-jseg7i727q-el.a.run.app/",
+    "source": "https://github.com/sancheet48/Movie-Recommendation-System-Project"
   },
   {
-    "title": "Project C",
+    "title": "Car Price Prediction ",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Designed and developed using mutliple ML models to predict used Indian car prices.",
+    "skills": [
+      "Python",
+      "Pandas",
+      "Streamlit",
+      "Scikit-Learn"
+    ],
+    "demo": "https://car-sancheet.herokuapp.com/",
+    "source": "https://github.com/sancheet48/UOH_Final_Project"
   }
 ]
